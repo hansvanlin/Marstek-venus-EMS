@@ -359,7 +359,7 @@ enable following part in node-red settings.js
 <img width="275" height="107" alt="image" src="https://github.com/user-attachments/assets/2a50336b-ec50-4bb3-9a95-b17cda1407bf" />
 
 ## **Price/Engine Card:** 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/dc6e00eb-9c51-49b9-9727-b15a85382606" />
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/dc6e00eb-9c51-49b9-9727-b15a85382606" />
 
 
 
