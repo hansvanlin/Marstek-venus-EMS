@@ -280,9 +280,9 @@ Or set expensive hours to 0 \
 
 
 ### **Dynamic price control**
-Battery state in charging during cheap hours:
+
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/743b0a0f-45b1-413d-ad70-5ac4e8257f5f" />
-alt="image" src="https://github.com/user-attachments/assets/c3d0dea7-fb23-44b0-b318-f8800dcefae3" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c3d0dea7-fb23-44b0-b318-f8800dcefae3" />
 
 
 
