@@ -282,7 +282,7 @@ Or set expensive hours to 0 \
 ### **Dynamic price control**
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/743b0a0f-45b1-413d-ad70-5ac4e8257f5f" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/c3d0dea7-fb23-44b0-b318-f8800dcefae3" />
+
 
 
 
@@ -329,7 +329,8 @@ Check the cell voltages
 
 ## **Dashboard 2.0 support:**
 
-<img width="952" height="592" alt="image" src="https://github.com/user-attachments/assets/9240c254-27cf-49a9-8e67-9cb486134ebf" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/9240c254-27cf-49a9-8e67-9cb486134ebf" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c3d0dea7-fb23-44b0-b318-f8800dcefae3" />
 
 ## **New Status Card:** (with dynamic colors)
 
