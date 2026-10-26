@@ -329,7 +329,11 @@ Check the cell voltages
 
 ## **Dashboard 2.0 support:**
 
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/c3d0dea7-fb23-44b0-b318-f8800dcefae3" />
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/1316f3b5-6cbe-48eb-b4c4-6d7386f5f60e" />
+
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/a61eb0ef-cd55-45fa-a9b2-711cf6146e87" />
+
+
 
 ## **New Status Card:** (with dynamic colors)
 
