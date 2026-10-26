@@ -29,14 +29,16 @@ Node-RED dashboard and Modbus TCP control flow for local control of the Marstek 
 * Dynamic electricity price control
 * Day-ahead price analysis
 * Temperature monitoring
-* Schedule-based battery control
+* Marstek Schedule-based battery control, settings applied via mod-bus
 * Force mode control
 * Direct Modbus register access
 * Battery diagnostics and tooling
 * Optional SMA Tripower integration (dynamic export limiting and   power control)
 * Node-RED Dashboard UI and Dashboard 2.0 support
 * New Dashboard 2.0 Status Cards
-* 15min time interval price control configurable engine (tab Forecast)
+* 15min time interval price control configurable on engine tab
+* Tomorrow graph with engine settings applied (available in the afternoon)
+* Scheduled Charge, Discharge or Antifeed mode
 
 Multi-battery support: Tested with up to 3 Marstek batteries. The modular Node-RED architecture can potentially support additional batteries by duplicating the corresponding Modbus and control branches. Configurations with more than 3 batteries have not yet been tested.
 
