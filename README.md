@@ -284,7 +284,8 @@ Or set expensive hours to 0 \
 
 ### **Dynamic price control**
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/743b0a0f-45b1-413d-ad70-5ac4e8257f5f" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/8d653d82-5613-4f3e-9d9b-b908ac99bd89" />
+
 
 
 
