@@ -1,4 +1,4 @@
-## **2.0 Release version**
+## **2.1 Release version**
 
 
 🔧 Features:
@@ -19,11 +19,23 @@
 * 15min time interval price control
 * Add example of Venus 3.0
 * Price engine configurable even settings like charge only on cheap hours (expensive 0 hours or via switch)
+* Implemented self strategy; Charge from grid or PV (price based mode)
+
+
 
 ## **Improvements**
+* New self strategy; Charge from grid or PV (price based mode)
+* Engine update
+* bug fixes
+
+## **2.0 Release version**
+
 * Added an example of Vensus E 3.0
 * Price engine configurable via UI (forecast tab)
 * Modbus improvements
+
+
+
 
 ## **1.15 Release version**
 
