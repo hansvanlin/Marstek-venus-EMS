@@ -39,7 +39,7 @@ Node-RED dashboard and Modbus TCP control flow for local control of the Marstek 
 * 15min time interval price control configurable on engine tab
 * Tomorrow graph with engine settings applied (available in the afternoon)
 * Scheduled Charge, Discharge or Antifeed mode (via scheduler node)
-* Self strategy; Charge from grid or Charge PV (price based mode)
+* Self strategy; Charge from grid or Charge PV or hold (price based mode)
 
 Multi-battery support: Tested with up to 3 Marstek batteries. The modular Node-RED architecture can potentially support additional batteries by duplicating the corresponding Modbus and control branches. Configurations with more than 3 batteries have not yet been tested.
 
