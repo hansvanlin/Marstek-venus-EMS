@@ -35,7 +35,7 @@ Node-RED dashboard and Modbus TCP control flow for local control of the Marstek 
 * Battery diagnostics and tooling
 * Optional SMA Tripower integration (dynamic export limiting and   power control)
 * Node-RED Dashboard UI and Dashboard 2.0 support
-* New Dashboard 2.0 Status Cards
+* New Dashboard 2.0 Status, Price, Battery and energy flow Cards
 * 15min time interval price control configurable on engine tab
 * Tomorrow graph with engine settings applied (available in the afternoon)
 * Scheduled Charge, Discharge or Antifeed mode (via scheduler node)
