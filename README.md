@@ -380,7 +380,11 @@ enable following part in node-red settings.js
   <img width="270" alt="image" src="https://github.com/user-attachments/assets/328fe37b-f471-4420-b6db-ff30759fbfe9" />
 
 ## **Energy Flow Card:**
-<img width="270" alt="Screenshot_20261116_180259_Firefox" src="https://github.com/user-attachments/assets/7db718ff-d446-44d4-a700-1ff192a35a56" />
+<img width="270" alt="Screenshot_20261116_203142_Firefox" src="https://github.com/user-attachments/assets/aacbba1f-e4c1-47d3-a616-668d470bccef" />  
+
+<img width="270" alt="Screenshot_20261116_203046_Firefox" src="https://github.com/user-attachments/assets/daded6dd-7f68-4d69-8237-d6d722f0e4b9" />
+
+
 
 
 
