@@ -379,6 +379,8 @@ enable following part in node-red settings.js
      <img width="270" alt="image" src="https://github.com/user-attachments/assets/7ba3f548-357e-4581-b8d3-736e9c2a4ca8" />
   <img width="270" alt="image" src="https://github.com/user-attachments/assets/328fe37b-f471-4420-b6db-ff30759fbfe9" />
 
+## **Energy Flow Card:**
+<img width="270" alt="Screenshot_20261116_180259_Firefox" src="https://github.com/user-attachments/assets/7db718ff-d446-44d4-a700-1ff192a35a56" />
 
 
 
