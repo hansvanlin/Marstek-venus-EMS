@@ -385,6 +385,12 @@ enable following part in node-red settings.js
 
 <img width="270" alt="Screenshot_20261116_211849_Firefox" src="https://github.com/user-attachments/assets/a10525f9-4ad3-46b5-97a4-b1d865fdcdda" />
 
+Easy to adapt with your input via global.get values;
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/c6a11ecc-cfa0-4ffc-b806-72c385b340cd" />
+
+<img width="750"  alt="image" src="https://github.com/user-attachments/assets/6776f3d1-f6e2-4614-bd7a-c48da8a02a6b" />
+
+
 
 
 
