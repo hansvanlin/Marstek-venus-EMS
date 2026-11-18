@@ -383,7 +383,8 @@ enable following part in node-red settings.js
 <img width="270" alt="Screenshot_20261116_203142_Firefox" src="https://github.com/user-attachments/assets/aacbba1f-e4c1-47d3-a616-668d470bccef" /> 
 
 
-<img width="270" alt="Screenshot_20261116_211849_Firefox" src="https://github.com/user-attachments/assets/a10525f9-4ad3-46b5-97a4-b1d865fdcdda" />
+<img width="270" alt="Screenshot_20261118_142208_Firefox" src="https://github.com/user-attachments/assets/dd3476fc-1183-4843-b5c1-8e30004dec59" />
+
 
 Easy to adapt with your input via global.get values;
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/c6a11ecc-cfa0-4ffc-b806-72c385b340cd" />
