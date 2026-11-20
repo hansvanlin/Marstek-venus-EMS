@@ -59,7 +59,8 @@ From version 0.1.7 onwards, schedule control is the recommended and default cont
 Node-red script with UI to control the Marstek venus.
 All without digging deep into marstek app to toggle the options.
 
-![alt text](images/Dashboard.png)
+<img width="500" alt="Screenshot_20261120_132444_Firefox" src="https://github.com/user-attachments/assets/2507ef30-6cc0-49e2-8735-4563f99711d9" />
+
 
 
 ## **The UI has 4 modes:**
