@@ -392,6 +392,8 @@ enable following part in node-red settings.js
 <img width="270" alt="Screenshot_20261118_142208_Firefox" src="https://github.com/user-attachments/assets/dd3476fc-1183-4843-b5c1-8e30004dec59" />
 
 Animated heating/cooling circles (red/blue).
+<img width="150" alt="copyImage" src="https://github.com/user-attachments/assets/e694a89d-6873-488a-9f4e-a94a5941e37f" />
+
 Easy to adapt with your input via global.get values;
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/c6a11ecc-cfa0-4ffc-b806-72c385b340cd" />
 
