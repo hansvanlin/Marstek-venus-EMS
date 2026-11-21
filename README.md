@@ -400,7 +400,7 @@ Easy to adapt with your input via global.get values;
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/6776f3d1-f6e2-4614-bd7a-c48da8a02a6b" />
 
 
-## **3f Monitor card:**
+## **3f Monitor Card:**
 <img width="500"  alt="Screenshot_20261121_090708_Firefox" src="https://github.com/user-attachments/assets/10cca926-818d-4d4c-a6d5-d5634fb5d91f" />
 
 
