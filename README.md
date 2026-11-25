@@ -402,7 +402,8 @@ Easy to adapt with your input via global.get values;
 
 ## **Strategy Card:**
 
-<img width="500" alt="Screenshot_20261124_163254_Firefox" src="https://github.com/user-attachments/assets/7554b173-358c-4d15-b75e-0c61b1471ca1" />
+<img width="500"  alt="Screenshot_20261125_145541_Firefox" src="https://github.com/user-attachments/assets/36f90fb2-fe39-4612-bd04-3ba94b1b6e6b" />
+
 
 
 ## **3f Monitor Card:**
